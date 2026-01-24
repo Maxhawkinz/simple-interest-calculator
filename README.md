@@ -7,6 +7,7 @@ This project is a Bash script that calculates simple interest based on user inpu
 - Rate of interest
 - Time period
 
+
 The calculator computes simple interest using the formula:
 
 Simple Interest = (Principal × Rate × Time) / 100
